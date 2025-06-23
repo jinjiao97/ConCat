@@ -1,0 +1,13 @@
+networkx==2.6.3
+absl-py==1.2.0
+cython==0.29.30
+tqdm==4.35.0
+torchdiffeq==0.2.3
+tensorboard==2.0.1
+protobuf==3.20.0
+psutil==5.9.2
+sklearn==0.0
+setproctitle
+pandas
+karateclub
+scipy==1.6.0
