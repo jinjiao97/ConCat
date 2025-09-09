@@ -32,15 +32,32 @@ bash run.sh
 
 
 ## Datasets
+Datasets download link: [Google Drive](https://drive.google.com/file/d/1dGdIzyFiRVBsdTek2x5r7s7-fqKrJA_q/view?usp=drive_link)
 
-Datasets download link: [Google Drive](https://drive.google.com/file/d/1o4KAZs19fl4Qa5LUtdnmNy57gHa15AF-/view?usp=sharing) or [Baidu Drive (password: `1msd`)](https://pan.baidu.com/s/1tWcEefxoRHj002F0s9BCTQ).
+Put the 'dataset.txt' files (twitter/weibo/aps ) into the corresponding directory: such as 'data/twitter/dataset.txt'
 
 The datasets we used in the paper are come from:
 
-- [Twitter](http://carl.cs.indiana.edu/data/#virality2013) (Weng *et al.*, [Virality Prediction and Community Structure in Social Network](https://www.nature.com/articles/srep02522), Scientific Report, 2013).
+- [Twitter](https://drive.google.com/file/d/1dGdIzyFiRVBsdTek2x5r7s7-fqKrJA_q/view?usp=drive_link ) (Xin Jing, [On Your Mark, Get Set, Predict! Modeling Continuous-Time Dynamics of Cascades for Information Popularity Prediction](https://ieeexplore.ieee.org/abstract/document/11072054), TKDE2025)
 - [Weibo](https://github.com/CaoQi92/DeepHawkes) (Cao *et al.*, [DeepHawkes: Bridging the Gap between 
 Prediction and Understanding of Information Cascades](https://dl.acm.org/doi/10.1145/3132847.3132973), CIKM, 2017). You can also download Weibo dataset [here](https://drive.google.com/file/d/1fgkLeFRYQDQOKPujsmn61sGbJt6PaERF/view?usp=sharing) in Google Drive.  
-- [APS](https://journals.aps.org/datasets) (Released by *American Physical Society*, obtained at Jan 17, 2019).  
+- [APS](https://journals.aps.org/datasets) (Released by *American Physical Society*, obtained at Jan 17, 2019).
+
+## Reference
+If you use our code or datasets, please cite:
+```
+@article{jing2025your,
+  title={On Your Mark, Get Set, Predict! Modeling Continuous-Time Dynamics of Cascades for Information Popularity Prediction},
+  author={Jing, Xin and Jing, Yichen and Lu, Yuhuan and Deng, Bangchao and Yang, Sikun and Yang, Dingqi},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2025},
+  publisher={IEEE}
+}
+
+
+```
+
+  
 
 
 
